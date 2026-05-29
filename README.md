@@ -182,7 +182,7 @@ ax.set_ylabel('Накопленная частота')
 
 Гистограмма накопленных частот:
 
-![Гистограмма накопленных частот](./hist_cummul.png)
+![Гистограмма накопленных частот](images/hist_cummul.png)
 
 
 ``` Python
@@ -199,9 +199,10 @@ for x,y in zip(middle_ranges, cummul_freq):
 
 График накопленных частот
 
-![График накопленных частот](./plot_cummul_frequency.png)
+![График накопленных частот](images/plot_cummul_frequency.png)
 
 
 
 
 ## task 5
+
